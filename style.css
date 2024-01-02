@@ -69,7 +69,7 @@ h6 {
 
 /* Home Section START */
 .slide-1 {
-    background: url(/img/batagorabadi.jpg);
+    background: url(img/batagorabadi.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -86,7 +86,7 @@ h6 {
 }
 
 .slide-2 {
-    background: url(/img/batagorkeringbumbu.jpg);
+    background: url(img/batagorkeringbumbu.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
